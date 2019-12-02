@@ -13,7 +13,6 @@ public class App
     	} else {
     		System.out.println( "What's your name????");
     		System.out.println( "I would love to see travis working...");
-    		
     	}
     }
 }
